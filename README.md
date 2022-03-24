@@ -1,1 +1,1 @@
-Experimenting with quarto-render-experiment
+Experimenting with `quarto render` inside CI.
